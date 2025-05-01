@@ -1,0 +1,13 @@
+langchain_openai
+langchain
+pydantic
+langchain 
+langchain-community 
+langchain-core 
+langgraph
+streamlit
+python-dotenv
+openai
+dotenv
+langgraph-swarm
+tavily-python
