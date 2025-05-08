@@ -11,3 +11,4 @@ openai
 dotenv
 langgraph-swarm
 tavily-python
+langchain-google-genai
